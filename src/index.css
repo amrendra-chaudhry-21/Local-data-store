@@ -28,7 +28,7 @@
 .wrapper .form-container{
     width: 500px;
     height: 340px;
-    background-color: #e4e4e4;
+    background-color: #f3a4a4;
     margin: 20px auto;
     padding: 20px;   
 }
@@ -39,7 +39,7 @@
 
 .wrapper .view-container{
     width: 600px;    
-    background-color: #e4e4e4;
+    background-color: #a4c8ae;
     margin: 20px auto;
     padding: 20px;
     display: flex;
